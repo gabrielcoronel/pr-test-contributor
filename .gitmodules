@@ -1,0 +1,3 @@
+[submodule "libreria-algebra-lineal"]
+	path = super-libreria
+	url = https://github.com/prueba-pull-request/super-libreria
